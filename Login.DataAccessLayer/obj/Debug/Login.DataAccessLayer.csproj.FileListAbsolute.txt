@@ -1,0 +1,15 @@
+C:\Users\kerem\source\repos\LoginServices\Login.DataAccessLayer\bin\Debug\Login.DataAccessLayer.dll.config
+C:\Users\kerem\source\repos\LoginServices\Login.DataAccessLayer\bin\Debug\Login.DataAccessLayer.dll
+C:\Users\kerem\source\repos\LoginServices\Login.DataAccessLayer\bin\Debug\Login.DataAccessLayer.pdb
+C:\Users\kerem\source\repos\LoginServices\Login.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\kerem\source\repos\LoginServices\Login.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kerem\source\repos\LoginServices\Login.DataAccessLayer\bin\Debug\Login.Entities.dll
+C:\Users\kerem\source\repos\LoginServices\Login.DataAccessLayer\bin\Debug\Login.Entities.pdb
+C:\Users\kerem\source\repos\LoginServices\Login.DataAccessLayer\bin\Debug\Login.Entities.dll.config
+C:\Users\kerem\source\repos\LoginServices\Login.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\kerem\source\repos\LoginServices\Login.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kerem\source\repos\LoginServices\Login.DataAccessLayer\obj\Debug\Login.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\kerem\source\repos\LoginServices\Login.DataAccessLayer\obj\Debug\Login.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\LoginServices\Login.DataAccessLayer\obj\Debug\Login.DataAccessLayer.csproj.CopyComplete
+C:\Users\kerem\source\repos\LoginServices\Login.DataAccessLayer\obj\Debug\Login.DataAccessLayer.dll
+C:\Users\kerem\source\repos\LoginServices\Login.DataAccessLayer\obj\Debug\Login.DataAccessLayer.pdb

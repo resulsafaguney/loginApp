@@ -1,0 +1,12 @@
+C:\Users\kerem\source\repos\LoginServices\Login.Entities\bin\Debug\Login.Entities.dll.config
+C:\Users\kerem\source\repos\LoginServices\Login.Entities\bin\Debug\Login.Entities.dll
+C:\Users\kerem\source\repos\LoginServices\Login.Entities\bin\Debug\Login.Entities.pdb
+C:\Users\kerem\source\repos\LoginServices\Login.Entities\bin\Debug\EntityFramework.dll
+C:\Users\kerem\source\repos\LoginServices\Login.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kerem\source\repos\LoginServices\Login.Entities\bin\Debug\EntityFramework.xml
+C:\Users\kerem\source\repos\LoginServices\Login.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kerem\source\repos\LoginServices\Login.Entities\obj\Debug\Login.Entities.csprojAssemblyReference.cache
+C:\Users\kerem\source\repos\LoginServices\Login.Entities\obj\Debug\Login.Entities.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\LoginServices\Login.Entities\obj\Debug\Login.Entities.csproj.CopyComplete
+C:\Users\kerem\source\repos\LoginServices\Login.Entities\obj\Debug\Login.Entities.dll
+C:\Users\kerem\source\repos\LoginServices\Login.Entities\obj\Debug\Login.Entities.pdb
